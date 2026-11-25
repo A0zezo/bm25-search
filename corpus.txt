@@ -1,0 +1,8 @@
+BM25 is a ranking function used by search engines to score documents against a query.
+Term frequency counts how often a word appears in a document.
+Inverse document frequency gives rare words more weight than common words.
+Document length normalization stops long documents from dominating the ranking.
+FastAPI serves machine learning models over HTTP.
+Dense retrieval encodes queries and documents as embeddings.
+Hybrid search combines keyword scores with vector similarity.
+Chunking splits long documents into passages before indexing.
